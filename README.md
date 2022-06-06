@@ -30,5 +30,5 @@ translate("Hi, I'm Zach") # => Ihay, I'may Achzay
 
 translate("Hi, I'm Zach.\nHow are you?")
 # => Ihay, I'may Achzay.
-# => Owhay areway ouyay?
+# => Owhay areay ouyay?
 ```
